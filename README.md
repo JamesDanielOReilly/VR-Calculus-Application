@@ -1,4 +1,4 @@
-#Virtual Reality Calculus
+# Virtual Reality Calculus
 
 This repository contains an educational VR application developed as part of my final year project at the University of Bristol under the supervision of Dr. Andrew Calway and Dr. Oussama Metatla. The application is conceptualised as a teaching aid for elementary calculus concepts. In its current state, it serves only as a proof of concept. The technology was evaluated with secondary-level mathematics students in Ireland. 
 
