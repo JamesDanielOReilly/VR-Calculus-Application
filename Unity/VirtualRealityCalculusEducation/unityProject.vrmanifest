@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvrinteractionsystem.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Dropbox\\Bristol VR Lab Dropbox\\Students\\James O'Reilly\\Official\\VirtualRealityCalculusEducation\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVRInteractionSystem [Testing]"
+        }
+      }
+    }
+  ]
+}
